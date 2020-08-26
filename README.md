@@ -41,8 +41,20 @@ so you can also add the RGB effect with the lolcat program (external)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <img width="400" src="https://i.kym-cdn.com/photos/images/original/001/349/277/7b6.gif">
 </p> 
+are you still here?
 
 
 
