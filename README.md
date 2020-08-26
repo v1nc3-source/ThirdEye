@@ -38,7 +38,7 @@ so you can also add the RGB effect with the lolcat program (external)
 <br>
 
 
-I use this program to do CTF, and nothing, I almost never win
+I use this program to do enumeration on CaptureTheFlag, and nothing, I almost never win
 
 <img width="300" src="https://media.giphy.com/media/fZYsPE8NzWxdm/giphy.gif">
 
