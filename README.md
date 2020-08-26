@@ -18,9 +18,8 @@ Added GoBuster because is a great tool!
 - it's beautiful because it's RGB 🌈
 - with hard coded shit 💩
 - great if you want to fail the oscp 👩‍💻
-- programmed slowness 🐌
-- not human friendly 🤸‍♂️
+- not human friendly 🙅‍♂️
 
-https://avatars2.githubusercontent.com/u/54278075?s=64&v=4
+<hr>
 
-https://github.com/v1nc3-source/ThirdEye/blob/master/screenshot2.png?raw=true
+
