@@ -21,10 +21,24 @@ Added GoBuster because is a great tool!
 - not human friendly 🙅‍♂️
 
 <hr>
+###installation:
+download the 3 python files and put them in the same directory, 
+if all three are not there the program will still work, BUT there will be no cool animations!
+to call the main program you have to use python:
+
+####$ python3 thirdeye.py
+
+but there is a cooler way to call a program! google "terminal alias"
+so you can also add the RGB effect with the lolcat program (external)
 
 
-<img width="700" src="https://i.kym-cdn.com/photos/images/original/001/349/277/7b6.gif">
+
+
+
+
+
+<img width="400" src="https://i.kym-cdn.com/photos/images/original/001/349/277/7b6.gif">
 </p> 
-https://i.kym-cdn.com/photos/images/original/001/349/277/7b6.gif
+
 
 
