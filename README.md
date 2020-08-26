@@ -9,7 +9,9 @@ with RGB because increases fps <img src="https://avatars2.githubusercontent.com/
 <img width="700" src="https://github.com/v1nc3-source/ThirdEye/blob/master/screenshot.png?raw=true">
 </p> 
  
-Added GoBuster because is a great tool! 
+ <img width="500" src="https://media.giphy.com/media/4To20UAlgGqapJ9Tt0/giphy.gif">
+</p> 
+
 
 <img width="700" src="https://github.com/v1nc3-source/ThirdEye/blob/master/screenshot2.png?raw=true">
 </p> 
