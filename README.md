@@ -38,7 +38,7 @@ so you can also add the RGB effect with the lolcat program (external)
 
 I use this program to do CTF, and nothing, I never won
 
-<img width="700" src="https://media.giphy.com/media/fZYsPE8NzWxdm/giphy.gif">
+<img width="300" src="https://media.giphy.com/media/fZYsPE8NzWxdm/giphy.gif">
 
 
 <br>
