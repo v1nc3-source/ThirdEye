@@ -10,6 +10,7 @@ added RGB because increases fps <img src="https://avatars2.githubusercontent.com
 </p> 
  
 Added GoBuster because is a great tool! 
+
 <img width="700" src="https://github.com/v1nc3-source/ThirdEye/blob/master/screenshot2.png?raw=true">
 </p> 
 
