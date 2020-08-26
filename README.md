@@ -9,7 +9,7 @@ with RGB because increases fps <img src="https://avatars2.githubusercontent.com/
 <img width="700" src="https://github.com/v1nc3-source/ThirdEye/blob/master/screenshot.png?raw=true">
 </p> 
  
- <img width="700" src="https://media.giphy.com/media/4To20UAlgGqapJ9Tt0/giphy.gif">
+ <img width="300" class="center" src="https://media.giphy.com/media/4To20UAlgGqapJ9Tt0/giphy.gif">
 </p> 
 
 
