@@ -4,7 +4,7 @@
 <img width="700" src="https://media.giphy.com/media/SAU6ItiJP5Z0QbK38c/giphy.gif">
 </p> 
 
-with RGB because increases fps <img src="https://avatars2.githubusercontent.com/u/54278075?s=64&v=4" width="35px">
+<b>with RGB because increases fps</b> <img src="https://avatars2.githubusercontent.com/u/54278075?s=64&v=4" width="35px">
 
 <img width="700" src="https://github.com/v1nc3-source/ThirdEye/blob/master/screenshot.png?raw=true">
 </p> 
