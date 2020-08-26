@@ -1,5 +1,5 @@
 # ThirdEye
-Another script-kiddie's nmap automator!
+Another nmap automator for script-kiddies, but with RGB!
 
 <img width="700" src="https://media.giphy.com/media/SAU6ItiJP5Z0QbK38c/giphy.gif">
 </p> 
@@ -14,6 +14,12 @@ Added GoBuster because is a great tool!
 <img width="700" src="https://github.com/v1nc3-source/ThirdEye/blob/master/screenshot2.png?raw=true">
 </p> 
 
+- written in python 🐍
+- it's beautiful because it's RGB 🌈
+- with hard coded shit 💩
+- great if you want to fail the oscp 👩‍💻
+- programmed slowness 🐌
+- not human friendly 🤸‍♂️
 
 https://avatars2.githubusercontent.com/u/54278075?s=64&v=4
 
