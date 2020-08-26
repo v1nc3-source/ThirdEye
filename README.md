@@ -21,6 +21,7 @@ Added GoBuster because is a great tool!
 - not human friendly 🙅‍♂️
 
 <hr>
+
 ### installation:
 
 download the 3 python files and put them in the same directory, 
@@ -31,6 +32,8 @@ to call the main program you have to use python:
 
 but there is a cooler way to call a program! google "terminal alias"
 so you can also add the RGB effect with the lolcat program (external)
+
+<hr>
 
 
 
