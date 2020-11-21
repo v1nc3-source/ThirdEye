@@ -6,8 +6,8 @@ import subprocess
 
 
 ############### external animation ##############################################
-subprocess.call("python3 /root/eye.py | lolcat -a -d 1 -F 0.2 -f ", shell=True) #CHANGE THIS DIRECTORY
-subprocess.call("python3 /root/nma.py | lolcat -a -d 50 -F 0.2 -f ", shell=True)######################
+subprocess.call("python3 /vince/eye.py | lolcat -a -d 1 -F 0.2 -f ", shell=True)  #CHANGE THIS DIRECTORY
+subprocess.call("python3 /vince/nma.py | lolcat -a -d 50 -F 0.2 -f ", shell=True) #CHANGE THIS DIRECTORY
 #################################################################################
 
 
