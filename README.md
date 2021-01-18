@@ -1,5 +1,5 @@
 # ThirdEye
-### An nmap automator for script-kiddies, but with RGB!
+### An nmap automator, but with RGB!
 
 <img width="700" src="https://media.giphy.com/media/SAU6ItiJP5Z0QbK38c/giphy.gif">
 </p> 
