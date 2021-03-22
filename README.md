@@ -13,8 +13,7 @@
 </p> 
 
 
-<img width="700" src="https://github.com/v1nc3-source/ThirdEye/blob/master/screenshot2.png?raw=true">
-</p> 
+
 
 - written in python 🐍
 - it's beautiful because it's RGB 🌈
