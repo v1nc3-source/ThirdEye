@@ -15,11 +15,11 @@
 
 
 
-- written in python 🐍
-- it's beautiful because it's RGB 🌈
-- with hard coded shit 💩
-- great if you want to fail the oscp 👩‍💻
-- not human friendly 🙅‍♂️
+- Written in python 🐍
+- It's beautiful because it's RGB 🌈
+- With hard coded shit 💩
+- Great if you want to fail the oscp 👩‍💻
+- Not human friendly 🙅‍♂️
 
 <hr>
 
