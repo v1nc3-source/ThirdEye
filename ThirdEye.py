@@ -8,14 +8,13 @@ import subprocess
 ############### external animation ##############################################
 subprocess.call("python3 /directory/eye.py | lolcat -a -d 1 -F 0.2 -f ", shell=True)  #CHANGE THIS DIRECTORY
 subprocess.call("python3 /directory/nma.py | lolcat -a -d 50 -F 0.2 -f ", shell=True) #CHANGE THIS DIRECTORY
-#################################################################################
+################################################################################
 
 
-##### set the target ###########################################################
 print(" ")
 
 iptoscan = input(" TARGET >> ")
-try:
+try:	#HARD CODED SHIT 
 	print("                                             ")
 	##### NMAP QUICK TCP ################################################
 	print(colored("################ 𝓝 𝓜 𝓐 𝓟   𝓠 𝓤 𝓘 𝓒 𝓚   𝓣 𝓒 𝓟  #####################################", "red"))
